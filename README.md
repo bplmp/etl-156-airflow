@@ -46,6 +46,6 @@ E em uma outra janela, ligue o "scheduler":
 
     source python-env/bin/activate
     export AIRFLOW_HOME=$(pwd)
-    airflow webserver -p 8080
+    airflow scheduler
 
 No seu browser, navegue para [http://localhost:8080/](http://localhost:8080/) e pronto!
