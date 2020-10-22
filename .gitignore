@@ -1,0 +1,9 @@
+airflow.cfg
+airflow.db
+logs/
+python-env/
+unittests.cfg
+exports/organizations/*.csv
+exports/organizations/*.xlsx
+exports/summaries/*.csv
+exports/summaries/*.xlsx
